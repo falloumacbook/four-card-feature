@@ -69,6 +69,12 @@ body {
 	padding-top: 2rem;
 }
 
+.card-image:hover{
+	transform: scale(1.1);
+	transition: ease-in-out 0.3;
+	cursor: pointer;
+}
+
 .card-1,
 .card-2,
 .card-3,
